@@ -27,4 +27,4 @@
 </div>
 
 ###
-(https://github-readme-stats.vercel.app/api?username=komilovmDev&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=komilovmDev&show_icons=true&theme=tokyonight )
