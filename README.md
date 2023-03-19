@@ -27,5 +27,5 @@
 </div>
 
 ## 🏆 My Github Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zafarbekde&show_icons=true&theme=tokyonight )
+![GitHub stats]([https://github-readme-stats.vercel.app/api?username=zafarbekde&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=komilovmDev&show_icons=true&theme=tokyonight) )
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zafarbekde&theme=tokyonight)
