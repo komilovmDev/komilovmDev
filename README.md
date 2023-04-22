@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I am a Junior frontend developer</p>
+<p align="left">I am a Middle frontend developer</p>
 
 ###
 
