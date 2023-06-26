@@ -17,8 +17,8 @@
 </div>
 
 ## 🏆 My Github Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigo-Cn&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zafarbekde&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigo-Cn&show_icons=true&theme=tokyonight)
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-36-orange.svg?style=flat-square)](#contributors-)
